@@ -1,2 +1,3 @@
 # mapofffacts.com
-Map Of Facts
+
+[Map Of Facts](https://github.com/korczis/mapofffacts.com/wiki)
